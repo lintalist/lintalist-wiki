@@ -1,0 +1,1 @@
+﻿Images for use in the [Wiki](https://github.com/lintalist/lintalist/wiki)
